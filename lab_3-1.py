@@ -1,7 +1,7 @@
 def sum_to(n):
     total = 0
-    i = 0
-    while total >= n:
+    X= 0
+    while total <= n:
         print(total)
-        total += i
+        total += X
     return total
